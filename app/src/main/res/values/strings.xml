@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">P3 QUIZ APP</string>
+    <string name="ques1">Which is the heavier metal of these two?</string>
+    <string name="ques1_option1">GOLD</string>
+    <string name="ques1_option2">SILVER</string>
+
+    <string name="ques2">Which is the animal referred as the ship of the desert?</string>
+
+    <string name="ques3">Which is the nearest star to planet earth?</string>
+    <string name="ques3_option1">Mercury</string>
+    <string name="ques3_option2">Venus</string>
+    <string name="ques3_option3">Saturn</string>
+
+    <string name="ques4">Which is the fastest animal on the land?</string>
+    <string name="ques4_option1">Cheetah</string>
+    <string name="ques4_option2">Tiger</string>
+
+    <string name="ques5">Which of the following are Mammals?</string>
+    <string name="ques5_option1">Elephant</string>
+    <string name="ques5_option2">Birds</string>
+    <string name="ques5_option3">Snakes</string>
+    <string name="ques5_option4">Dogs</string>
+    <string name="ques5_option5">Fish</string>
+    <string name="ques5_option6">Whales</string>
+
+    <string name="ques6">What is capital of Australia?</string>
+    <string name="ques6_option1">Sydney</string>
+    <string name="ques6_option2">Canberra</string>
+
+    <string name="ques7">Which is the only mammal that can\'t jump?</string>
+    <string name="ques7_option1">Giraffes</string>
+    <string name="ques7_option2">Elephant</string>
+    <string name="ques7_option3">Both</string>
+
+    <string name="ques8">Which is the only bird who can see the color blue?</string>
+
+    <string name="ques9">What is the currency of Japan?</string>
+    <string name="ques9_option1">Renminbi</string>
+    <string name="ques9_option2">Yen</string>
+
+    <string name="ques10">Turtles have no teeth.</string>
+    <string name="ques10_option1">True</string>
+    <string name="ques10_option2">False</string>
+
+    <string name="end_game">END GAME</string>
+
+    <string name="reset">RESET</string>
+    <string name="ques1_ans">Correct answer is GOLD</string>
+
+</resources>
